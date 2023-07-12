@@ -2,16 +2,14 @@
 body{background: #fff}
 #wrap {height: 900px; margin: 0 auto; font-size: 40px; color: #fff; text-align: center; text-transform: uppercase;}
 #rogo {text-align: center; float: right;}
-#lg_rogo{position: relative;display: inline;}
+#lg_rogo{position: relative;display: inline; text-align: center;}
 #top_header{height: 130px;text-align: center;}
-#down_header {height:70px;text-align: center; background-color: rgba(175, 40, 72, 0.6)}
+#down_header {height:70px;text-align: center; background-color: rgba(175, 40, 72, 0.6);}
 #content {width: 1500px; height: 100; text-align: center; float: left;}
-#button {
-    text-align: center;
-}
 .B1 {
-    border-radius:20px;
+    margin-left: 90px;
     margin-right: 100px;
+    border-radius:20px;
     border: 5px solid #af2848;
     background-color: #fff;
     font-size: 20px;
@@ -26,7 +24,6 @@ body{background: #fff}
 }
 .B2 {
     border-radius:20px;
-    margin-left: 100px;
     border: 5px solid #af2848;
     background-color: #fff;
     font-size: 20px;
