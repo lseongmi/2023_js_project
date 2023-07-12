@@ -10,13 +10,13 @@ body{background: #fff}
     text-align: center;
 }
 .B1 {
-    border-radius:10px;
+    border-radius:20px;
     margin-right: 100px;
     border: 5px solid #af2848;
     background-color: #fff;
     font-size: 20px;
     padding: 2px;
-    width: 100px;
+    width: 140px;
 }
 .B1:active {
     background-color:darkgray;
@@ -25,13 +25,13 @@ body{background: #fff}
     background-color:darkgray;
 }
 .B2 {
-    border-radius:10px;
+    border-radius:20px;
     margin-left: 100px;
     border: 5px solid #af2848;
     background-color: #fff;
     font-size: 20px;
     padding: 2px;
-    width: 100px;
+    width: 140px;
 }
 
 a{
