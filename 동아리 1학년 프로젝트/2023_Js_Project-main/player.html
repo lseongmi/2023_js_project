@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>players page</title>
+    <link rel="stylesheet" href="player.css">
+</head>
+<body>  
+    <div id = "wrap">
+        <div id="head">
+           <div id = "top_header">
+            <a href="../html/main.html"><img src="img/twins.png" alt="데이터를 불러올 수 없습니다." width = "400"></a>
+            </div>
+            <div id = "down_header">
+                <img src="img/lg 로고.png" alt="데이터를 불러올 수 없습니다." width="100">
+                <a href="..\2023_js_project_jiyung\wldud.html"><button class="box1">응원</button></a>
+                <a href="..\2023_js_project-main\player.html"><button class="box2">선수</button></a>
+            </div>
+        </div>
+        <div class="main_nav">
+            <div class="nav">투수</div>
+            <div class="nav">포수</div>
+            <div class="nav" id="colored-nav">내야수</div>
+            <div class="nav">외야수</div>
+            <div class="nav">육성선수</div>
+            <form>
+                <input type="search" name="search" placeholder="검색어를 입력하세요...">
+                <input type="submit" value="" id="search-button"> <!-- 이미지 버튼 -->
+            </form>              
+        </div>
+        
+    <!-- container는 말그대로 left, right 박스를 담는 통이라고 생각하면 돼 -->
+    <div class="container">
+
+        <!-- 대문짝만하게 나올 선수 박스 -->
+        <div id="side_left">
+            <div class="left-box">
+                <img src="img/1b 김민성.png" alt="선수">
+            </div>
+            <div class="big">
+                <div class="small1">2023 기록</div>
+                <div class="small2">응원법</div>
+                <div class="small3">명장면</div>
+                <div class="small4">SNS</div>
+              </div>
+        </div>
+
+        <!-- 작게 여러 명 나올 선수 박스 -->
+        <!-- 이거는 방법이 여러개인데 -->
+        <!-- 한줄에 박스 4개 들어가는 박스 두 개로 넣는 거로 할게!-->
+        <div id="side_right">
+            <div class="first_line">
+                <div class="box">
+                    <img src="img/1 김민성.png" alt="김민성 선수" width="168px" height="168px">
+                </div>
+                <div class="box">
+                    <img src="img/2 김주성.png" alt="김주성 선수" width="168px" height="168px">
+                </div>
+                <div class="box">
+                    <img src="img/3 문보경.png" alt="문보경 선수" width="168px" height="168px">
+                </div>
+                <div class="box">
+                    <img src="img/4 손호영.png" alt="손호영 선수" width="168px" height="168px">
+                </div>
+            </div>
+            <div class="second_line">
+                <div class="box">
+                    <img src="img/5 오지환.png" alt="오지환 선수" width="168px" height="168px">
+                </div>
+                <div class="box">
+                    <img src="img/6 이재원.png" alt="이재원 선수" width="168px" height="168px">
+                </div>
+                <div class="box">
+                    <img src="img/7 이주형.png" alt="이주형 선수" width="168px" height="168px">
+                </div>
+                <div class="box">
+                    <img src="img/8 최현준.png" alt="최현준 선수" width="168px" height="168px">
+                </div>
+            </div>
+            <div class="more">
+                <img src="img/더보기 버튼.png" alt="더보기">
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

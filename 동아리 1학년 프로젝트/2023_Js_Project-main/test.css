@@ -1,0 +1,73 @@
+.container {
+    display: flex; /* 컨테이너를 가로로 나열합니다. */
+  }
+  
+  .left-box{
+    width: 358px;
+    height: 608px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 5px solid #AF2842;
+    background-color: #fff;
+    border-radius: 70px;
+}
+  .box-container {
+    display: flex;
+    justify-content: space-between; /* 박스를 왼쪽과 오른쪽 끝으로 배치합니다. */
+    margin-bottom: 20px; /* 줄 간격 조정 */
+  }
+  
+  .box {
+    width: 168px;
+    height: 168px;
+    background-color: #fff;
+    border: 3px solid #AF2842;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 100px;
+}
+.big {
+  margin-top: 6px;
+  width: 358px;
+  height: 397px;
+  border: 5px solid #AF2842;
+  background-color: #AF2842;
+  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+}
+.small1 {
+  width: 315px;
+  height: 70px;
+  border: 5px solid #AF2842;
+  background-color: #fff;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.small2 {
+  width: 315px;
+  height: 70px;
+  border: 5px solid #AF2842;
+  background-color: #fff;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.small3 {
+  width: 315px;
+  height: 70px;
+  border: 5px solid #AF2842;
+  background-color: #fff;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.small4 {
+  width: 315px;
+  height: 70px;
+  border: 5px solid #AF2842;
+  background-color: #fff;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}

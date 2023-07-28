@@ -1,0 +1,8 @@
+body{background: #fff}
+/* text-transform : 영어에서만 사용가능, 텍스트를 대문자나 소문자로 변경 
+uppercase : 대문자로 */
+        #wrap {height: 900px; margin : 0 auto; font-size: 40px; color: #fff; text-align: center; text-transform: uppercase;}
+        #header{height: 100px; line-height : 100px;}
+        #nav{height: 100px; background-color: #af2842}
+        #content {float: left; width: 1000px; height: 100; text-align: center;}
+        

@@ -1,0 +1,88 @@
+body{background: #fff}
+#wrap{
+    height: 900px; 
+    margin: 0 auto; 
+    font-size: 40px; 
+    color: #fff; 
+    text-transform: uppercase;
+}
+#top_header{
+    height: 130px;
+    text-align: center;
+    padding-top: 10px;
+}
+#down_header{
+    height: 70px;
+    background-color: rgba(175, 40, 72, 0.6);
+}
+#down_header>img{
+    margin-left: 100px;
+}
+.box1{
+    width: 161px;
+    height: 48px;
+    border: 5px solid #AF2842;
+    background-color: #fff;
+    border-radius: 30px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+}
+.box2{
+    width: 161px;
+    height: 48px;
+    border: 5px solid #AF2842;
+    background-color: #fff;
+    border-radius: 30px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+}
+.main_nav{
+    display: flex;
+    margin-left: 50px;
+    font-size: 22px;
+    color: black;
+}
+.nav{
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    height: 35PX;
+    width: 90px;
+    text-align: center;
+    border-bottom-width: 7px;
+    border-bottom-style: solid;
+    border-bottom-color: #AF2842;
+}
+#colored-nav {
+    background-color: rgba(175, 40, 72, 0.6);
+}
+input[type="search"] {
+    width: 168px;
+    height: 44px;
+    border: 3px solid #AF2842; 
+    border-radius: 8px; 
+    margin-left: 100px;
+    margin-top: 40px;
+    padding: 8px 12px; /* 텍스트와 테두리 사이의 여백 설정 */
+    font-size: 22px; /* 폰트 크기 설정 */
+    width: 250px; /* 검색창의 너비 설정, 필요에 따라 조정 가능 */
+  }
+  input[type="search"]:focus {
+    border-color: #AF2842; /* 클릭 시 테두리 색상 변경 */
+  }
+.box3{
+    width: 358px;
+    height: 608px;
+    margin-left: 100px;
+    border: 5px solid #AF2842;
+    background-color: #fff;
+    border-radius: 70px;
+}

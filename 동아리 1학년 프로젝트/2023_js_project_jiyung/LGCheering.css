@@ -1,0 +1,248 @@
+#top_header{
+    text-align: center;
+    padding-top: 10px;
+}
+#down_header{
+    height: 70px;
+    background-color: rgba(175, 40, 72, 0.6);
+}
+#down_header>img{
+    margin-left: 100px;
+}
+.box1{
+    width: 161px;
+    height: 48px;
+    border: 5px solid #AF2842;
+    background-color: #fff;
+    border-radius: 30px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+.box2{
+    width: 287px;
+    height: 82px;
+    border: 5px solid #AF2842;
+    background-color: #fff;
+    border-radius: 20px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+.box3{
+    width: 250px;
+    height: 68px;
+    border: 12px #AF2842;
+    background-color: #fff;
+    border-radius: 17px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 24px;
+    color: black;
+}
+.box4{
+    width: 310px;
+    height: 35px;
+    border: 3.2px solid #AF2842;
+    background-color: #fff;
+    border-radius: 10px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+}
+.box5{
+    width: 290px;
+    height: 300px;
+    border: 2.5px solid #a2a2a2;
+    background-color: #fff;
+    border-radius: 10px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+}
+.box6{
+    width: 287px;
+    height: 390px;
+    border: 5px solid #AF2842;
+    background-color: #AF2842;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    top: 512px;
+    left: 1080px;
+    border: 5px;
+}
+#div23{
+    position: absolute;
+    top:480px;
+    left:1130px;
+}
+img{
+    border-radius: 10px;
+}
+p{
+    font-size: 22px;
+}
+#div1{
+    position: absolute;
+    top:50px;
+    left:100px;
+}
+#div2{
+    position: absolute;
+    top:70px;
+    left:380px;
+}
+#div3{
+    position: absolute;
+    top:139px;
+    left:950px;
+}
+#div4{
+    position: absolute;
+    top:139px;
+    left:1150px;
+}
+#div5{
+    position: absolute;
+    top:265px;
+    left:1130px;
+    border-radius: 20px;
+}
+#div6{
+    position: absolute;
+    top:373px;
+    left:1130px;
+    border-radius: 20px;
+}
+#div7{
+    position: absolute;
+    top:510px;
+    left:1148px;
+    z-index: 1;
+}
+#div8{
+    position: absolute;
+    top:600px;
+    left:1148px;
+    z-index: 1;
+}
+#div9{
+    position: absolute;
+    top:690px;
+    left:1148px;
+    z-index: 1;
+}
+#div10{
+    position: absolute;
+    top:780px;
+    left:1148px;
+    z-index: 1;
+    margin-bottom: 38px;
+}
+#div11{
+    position: absolute;
+    top:280px;
+    left:110px;
+    z-index: 1;
+}
+#div14{
+    position: absolute;
+    top:590px;
+    left:110px;
+    z-index: 1;
+}
+#div12{
+    position: absolute;
+    top:280px;
+    left:430px;
+    z-index: 1;
+}
+#div15{
+    position: absolute;
+    top:590px;
+    left:430px;
+    z-index: 1;
+}
+#div13{
+    position: absolute;
+    top:280px;
+    left:750px;
+    z-index: 1;
+}
+#div16{
+    position: absolute;
+    top:590px;
+    left:750px;
+    z-index: 1;
+}
+#div17{
+    position: absolute;
+    top:260px;
+    left:100px;
+    opacity:0.1
+}
+#div18{
+    position: absolute;
+    top:260px;
+    left:420px;
+    opacity:0.1
+}
+#div19{
+    position: absolute;
+    top:260px;
+    left:740px;
+    opacity:0.1
+}
+#div20{
+    position: absolute;
+    top:570px;
+    left:100px;
+    opacity:0.1
+}
+#div21{
+    position: absolute;
+    top:570px;
+    left:420px;
+    opacity:0.1
+}
+#div22{
+    position: absolute;
+    top:570px;
+    left:740px;
+    opacity:0.1
+}
+#div11>p{
+    font-size: 20px;
+}
+#div12>p{
+    font-size: 20px;
+}
+#div13>p{
+    font-size: 20px;
+}
+#div14>p{
+    font-size: 20px;
+}
+#div15>p{
+    font-size: 20px;
+}
