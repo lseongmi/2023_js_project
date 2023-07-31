@@ -1,8 +1,10 @@
+
 #top_header{
     text-align: center;
-    padding-top: 10px;
 }
+
 #down_header{
+    width: 1530px;
     height: 70px;
     background-color: rgba(175, 40, 72, 0.6);
 }

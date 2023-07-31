@@ -130,7 +130,7 @@ input[type="submit"]:focus {
 .left-box>img {
     position: absolute;
     transform: translate(0%, 39%);
-    top: 50%;
+    top: 48%;
     width: 358px;
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
